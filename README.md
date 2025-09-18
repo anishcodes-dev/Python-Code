@@ -5,4 +5,5 @@ Simple to Complex Python Code and solution
 2.Factorial using recursion
 3.Check for even and odd
 4.Sqaure root of a number
-5.Fibonaaci number 
+5.Swap Two Variable using 3rd variable 
+6.area of traingle
